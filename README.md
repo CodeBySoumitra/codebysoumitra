@@ -1,185 +1,139 @@
 <div align="center">
 
-# 👋 Hi, I'm Soumitra Das
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Soumitra%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;Problem+Solver;Open+Source+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+software;Solving+problems+one+commit+at+a+time;Preparing+for+placements+%F0%9F%9A%80;Open+to+Software+Engineering+roles" />
 
-<img src="https://komarev.com/ghpvc/?username=codebysoumitra&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/codebysoumitra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://codebysoumitra.github.io/portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/das-soumitra/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soumitrad801@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codebysoumitra.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codebysoumitra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/das-soumitra/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumitrad801@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=codebysoumitra&label=Profile+Views&color=00C2FF&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 🧑‍💻 About Me
 
+```yaml
 name: Soumitra Das
 location: West Bengal, India 🇮🇳
-education: B.Tech in Computer Science & Engineering (2027)
+education: B.Tech in Computer Science & Engineering, Class of 2027
 
 currently_learning:
   - Data Structures & Algorithms
   - Backend Development
   - System Design
 
+currently_building:
+  - Real-world, production-ready software projects
+  - Problem-solving strength through consistent LeetCode practice
+  - A solid foundation across core Computer Science subjects
+
 interests:
   - Software Engineering
   - Database Systems
   - Open Source
-  - Problem Solving
-
-languages:
-  - Java
-  - Python
-  - SQL
-  - JavaScript
-
-currently_building:
-  - Real-world software projects
-  - Strong problem-solving skills through LeetCode
-  - A solid foundation in Core Computer Science
+  - Competitive Problem Solving
 
 goal: >
   Build software that is clean, scalable, and makes a real impact.
+```
 
+<br/>
 
----
+## 🚀 Tech Stack
 
-# 🚀 Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Programming Languages
-
-<p>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,php"/>
-</p>
 
-### Frontend
-
-<p>
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-</p>
 
-### Backend
+</td>
+<td valign="top" width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django"/>
-</p>
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,mysql"/>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
-
-NumPy • Pandas • Matplotlib • Scikit-Learn
-
-### Tools
-
-<p>
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda"/>
-</p>
 
----
+</td>
+</tr>
+</table>
 
+**AI / ML** — <img src="https://skillicons.dev/icons?i=tensorflow" height="24"/> NumPy • Pandas • Matplotlib • Scikit-Learn
 
-# 📈 Coding Profiles
+<br/>
 
-| Platform | Link |
-|----------|------|
-| 💛 LeetCode | https://leetcode.com/u/das-soumitra/ |
-| 💙 GitHub | https://github.com/codebysoumitra |
-| 💼 LinkedIn | https://linkedin.com/in/das-soumitra |
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codebysoumitra&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysoumitra&layout=compact&theme=tokyonight"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codebysoumitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysoumitra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=codebysoumitra&theme=algolia&margin-w=15)
-
----
-
-# 📈 Contribution Graph
-
-[![Soumitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebysoumitra&theme=tokyo-night)](https://github.com/codebysoumitra)
-
----
-
-# 💻 LeetCode
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/das-soumitra?theme=dark&font=baloo"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysoumitra&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
----
+<br/>
 
-# 🎯 Current Goals
-
-✅ Solve 500+ LeetCode Problems
-
-✅ Master Java
-
-✅ Learn Spring Boot
-
-✅ Build Full Stack Projects
-
-✅ Crack Product-Based Company Placement
-
----
-
-# 🤝 Let's Connect
+## 🏆 Trophies
 
 <p align="center">
-
-<a href="mailto:soumitrad801@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/codebysoumitra">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/codebysoumitra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=codebysoumitra&theme=algolia&margin-w=15&no-frame=true"/>
 </p>
 
----
+<br/>
+
+## 💛 LeetCode Progress
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/das-soumitra?theme=dark&font=baloo&extension=activity"/>
+</p>
+
+<br/>
+
+## 🎯 Current Goals
+
+- [ ] Solve 500+ LeetCode problems
+- [ ] Master Java for backend development
+- [ ] Learn Spring Boot
+- [ ] Ship a full-stack project end to end
+- [ ] Crack a product-based company placement
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="mailto:soumitrad801@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/codebysoumitra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/codebysoumitra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
 
 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=100&section=footer" width="100%"/>
 
 </div>
