@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Soumitra Das.
+# 👋 Hi, I'm Soumitra Das
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;Problem+Solver;Open+Source+Enthusiast;Future+Software+Engineer" />
 
 <img src="https://komarev.com/ghpvc/?username=codebysoumitra&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/das-soumitra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://dassoumitra.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/codebysoumitra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://codebysoumitra.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/das-soumitra/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soumitrad801@gmail.com)
 
@@ -15,29 +15,37 @@
 
 ---
 
-# 💫 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+name: Soumitra Das
+location: West Bengal, India 🇮🇳
+education: B.Tech in Computer Science & Engineering (2027)
 
-🎓 B.Tech CSE Student (2027)
+currently_learning:
+  - Data Structures & Algorithms
+  - Backend Development
+  - System Design
 
-💻 Passionate about Software Development
+interests:
+  - Software Engineering
+  - Database Systems
+  - Open Source
+  - Problem Solving
 
-🧠 Solving Data Structures & Algorithms daily
+languages:
+  - Java
+  - Python
+  - SQL
+  - JavaScript
 
-🌱 Currently Learning
+currently_building:
+  - Real-world software projects
+  - Strong problem-solving skills through LeetCode
+  - A solid foundation in Core Computer Science
 
-- Advanced Java
-- System Design
-- SQL
-- Spring Boot
-- Machine Learning
+goal: >
+  Build software that is clean, scalable, and makes a real impact.
 
-🎯 Goal
-
-Become a Software Engineer at a Product-Based Company.
-
-📍 West Bengal, India
 
 ---
 
@@ -83,39 +91,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn
 
 ---
 
-# 🌟 Featured Projects
-
-## 🎬 Movie Recommendation System
-
-AI-powered movie recommendation engine using Machine Learning and TMDB API.
-
-**Tech**
-
-Python • Flask • Pandas • Scikit-Learn
-
----
-
-## 🍕 Pizza Sales Analysis
-
-SQL project analyzing pizza sales using advanced SQL queries and business insights.
-
-**Tech**
-
-MySQL • SQL
-
----
-
-## 📁 File Sharing System
-
-Secure file sharing application with modern UI.
-
----
-
-## 🌐 Personal Portfolio
-
-Responsive portfolio website showcasing projects, skills, achievements and resume.
-
----
 
 # 📈 Coding Profiles
 
@@ -189,7 +164,7 @@ Responsive portfolio website showcasing projects, skills, achievements and resum
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/das-soumitra">
+<a href="https://linkedin.com/in/codebysoumitra">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
