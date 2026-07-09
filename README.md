@@ -80,11 +80,12 @@ goal: >
 <br/>
 
 ## 📊 GitHub Analytics
-
+```
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=codebysoumitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysoumitra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+```
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight&hide_border=true"/>
@@ -95,7 +96,7 @@ goal: >
 </p>
 
 <br/>
-
+```
 ## 🏆 Trophies
 
 <p align="center">
@@ -103,7 +104,7 @@ goal: >
 </p>
 
 <br/>
-
+```
 ## 💛 LeetCode Progress
 
 <p align="center">
