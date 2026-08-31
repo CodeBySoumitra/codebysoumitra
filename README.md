@@ -1,7 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="codebysoumitra's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Soumitra%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Soumitra%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+software;Solving+problems+one+commit+at+a+time;Preparing+for+placements+%F0%9F%9A%80;Open+to+Software+Engineering+roles" />
 
@@ -19,11 +24,7 @@
 <br/>
 
 ## 🧑‍💻 About Me
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="codebysoumitra's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 
 ```yaml
 name: Soumitra Das
