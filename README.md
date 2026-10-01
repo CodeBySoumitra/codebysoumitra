@@ -89,20 +89,14 @@ goal: >
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight&hide_border=true" width="400" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/das-soumitra?theme=dark&font=baloo&extension=activity" width="400" height="200"/>
 </p>
+
 
 <!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysoumitra&theme=tokyo-night&hide_border=true" width="95%"/>
 </p> -->
-
-<br/>
-
-## 💛 LeetCode Progress
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/das-soumitra?theme=dark&font=baloo&extension=activity"/>
-</p>
 
 <br/>
 
