@@ -92,9 +92,9 @@ goal: >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysoumitra&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysoumitra&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+</p> -->
 
 <br/>
 
